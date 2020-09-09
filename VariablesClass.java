@@ -1,6 +1,7 @@
 public class VariablesClass {
     public static void main(String[] args) {
         
+        // start define variables in java
         System.out.println("Abozar");
 
         int number = 1;
