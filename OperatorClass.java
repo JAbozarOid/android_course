@@ -1,7 +1,7 @@
 public class OperatorClass {
     public static void main(String[] args) {
         
-        // start of define operators in java
+        // start of define arithmatic operators in java
         int a = 20;
         int b = 14;
         int sum = a + b;
@@ -25,7 +25,7 @@ public class OperatorClass {
         System.out.format("The value of " + "the integer a is " + "%d, while the value of the "
                 + "integer variable b is %d, " + "and the BAGHIMANDE is %f", a, b, divide);
         
-        // end of define operators in java
+        // end of define arithmatic operators in java
 
     }
 }
