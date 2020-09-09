@@ -1,7 +1,7 @@
 public class VariablesClass {
     public static void main(String[] args) {
         
-        // start define variables in java
+        // start of define variables in java
         System.out.println("Abozar");
 
         int number = 1;
@@ -18,6 +18,7 @@ public class VariablesClass {
 
         boolean bln = true;
         System.out.println(bln);
+        // end of define variables in java
 
 
 
