@@ -10,6 +10,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
+    // define widgets variables
     private EditText etFirstname, etLastname, etEmail;
     private Button btRegister;
     private TextView tvFirstname, tvLastname, tvEmail;
@@ -25,6 +26,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         btRegister.setOnClickListener(this);
     }
 
+    // connects variables to relative widgets in xml layout
     private void initWidgets() {
         etFirstname = findViewById(R.id.et_first_name);
         etLastname = findViewById(R.id.et_last_name);
