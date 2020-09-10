@@ -12,7 +12,7 @@ public class OperatorClass {
 
         int multiple = a * b;
         System.out.println(multiple);
-
+ 
         // OUTPUT -> KHAREJGHESMAT
         float division = a / b;
         System.out.format("The value of " + "the integer a is " + "%d, while the value of the "
