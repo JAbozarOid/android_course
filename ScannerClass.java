@@ -6,6 +6,7 @@ public class ScannerClass {
         
         System.out.println("please enter a number: ");
         
+        // using Scanner class
         Scanner scanner = new Scanner(System.in);
         int a = scanner.nextInt();
         scanner.close();
